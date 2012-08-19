@@ -5,7 +5,7 @@ var nq = {
 	}
 	, e : function(id)
 	{
-		//Shortcut
+		//Shortcut, oh yes
 		return this.elem(id); 
 	}
 };
