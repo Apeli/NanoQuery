@@ -8,4 +8,9 @@ var nq = {
 		//Shortcut, oh yes
 		return this.elem(id); 
 	}
+	, el : function(id)
+	{
+		//Another shortcut
+		return this.elem(id);
+	}
 };
