@@ -5,7 +5,7 @@ var nq = {
 	}
 	, e : function(id)
 	{
-		//Shortcut, oh no!
+		//Shortcut, oh no! This is master.
 		return this.elem(id); 
 	}
 	, el : function(id)
